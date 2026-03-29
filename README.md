@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Adem! 👋
 
-<!--
-**ademcnrtl/ademcnrtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in Istanbul. I love bringing the interesting ideas that pop into my head to life through code and sharing them with the open-source community.
 
-Here are some ideas to get you started:
+🎮 **Focus: Games & Beyond**
+I'm particularly passionate about building creative projects related to the gaming world. Whether it's game-tracking apps (like Logary!), exploring retro mechanics, or creating useful tools for gamers, I enjoy working on fun and interactive concepts. You'll definitely be seeing a lot more game-related repositories from me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** TypeScript, JavaScript, HTML/CSS
+* **Frameworks/Tools:** React Native, Next.js
+
+### 📫 Let's Connect
+If you want to chat about game development, brainstorm ideas, or just say hi, feel free to reach out!
+
+🐦 [Follow me on Twitter(X)](https://x.com/ademcertel)
+
+---
+*"Always building the next fun project. Stay tuned!"*
