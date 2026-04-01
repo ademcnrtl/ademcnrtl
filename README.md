@@ -14,5 +14,4 @@ If you want to chat about game development, brainstorm ideas, or just say hi, fe
 
 [Follow me on Twitter(X)](https://x.com/ademcertel)
 
----
 *"Always building the next fun project. Stay tuned!"*
