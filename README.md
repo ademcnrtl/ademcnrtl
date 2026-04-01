@@ -1,4 +1,6 @@
-# Hi, I'm Adem!
+# Hey, I'm Adem
+
+**Making the complex feel simple.**
 
 I'm a software developer based in Istanbul. I love bringing the interesting ideas that pop into my head to life through code and sharing them with the open-source community.
 
